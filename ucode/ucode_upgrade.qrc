@@ -1,0 +1,22 @@
+<RCC version="1.0">
+    <qresource>
+        <file alias="assets/ic_ucode.png">assets/ic_ucode.png</file>
+        <file alias="assets/img_update_fail.png">assets/img_update_fail.png</file>
+        <file alias="assets/img_update_success.png">assets/img_update_success.png</file>
+        <file alias="assets/installation_img_1.png">assets/installation_img_1.png</file>
+        <file alias="assets/pop_icon_close_dis.png">assets/pop_icon_close_dis.png</file>
+        <file alias="assets/pop_icon_close.png">assets/pop_icon_close.png</file>
+        <file alias="assets/installing/install0000.jpg">assets/installing/install0000.jpg</file>
+        <file alias="assets/installing/install0001.jpg">assets/installing/install0001.jpg</file>
+        <file alias="assets/installing/install0002.jpg">assets/installing/install0002.jpg</file>
+        <file alias="assets/installing/install0003.jpg">assets/installing/install0003.jpg</file>
+        <file alias="assets/installing/install0004.jpg">assets/installing/install0004.jpg</file>
+        <file alias="assets/installing/install0005.jpg">assets/installing/install0005.jpg</file>
+        <file alias="assets/installing/install0006.jpg">assets/installing/install0006.jpg</file>
+        <file alias="assets/installing/install0007.jpg">assets/installing/install0007.jpg</file>
+        <file alias="assets/installing/install0008.jpg">assets/installing/install0008.jpg</file>
+        <file alias="assets/installing/install0009.jpg">assets/installing/install0009.jpg</file>
+        <file alias="assets/installing/install0010.jpg">assets/installing/install0010.jpg</file>
+        <file alias="assets/installing/install0011.jpg">assets/installing/install0011.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,44 @@
+<aibox>
+    <upgrade>
+        <ui>
+            <dialog>
+                {"size":[600, 470], "mini_size":[600, 470], 
+                 "max_size":[600, 470], "stylesheet":"background-color:#FFFFFF;",
+                 "window_flags":13
+                }
+                
+                <label id = "installing_lable">
+                    {"name":"installing_lable", "rect":[[0, 0, 600, 272]],
+                     "stylesheet":"opacity: 0;"}
+                </label>
+                <label id = "img_update_lable">
+                    {"name":"img_update_lable", "rect":[
+                                                        [256, 320, 88, 78],
+                                                        [256, 320, 88, 76],
+                                                        [256, 300, 88, 76]]}
+                </label>
+                <label id = "close_lable">
+                    {"name":"close_lable", "rect":[[562, 10, 28, 28]],
+                    "stylesheet":"opacity: 0.4;background:transparent;"}
+                </label>
+                <label id = "info_lable">
+                    {"name":"info_lable", "rect":[[200, 416, 200, 22],
+                                                  [200, 411, 200, 22],
+                                                  [200, 380, 200, 22]], 
+                     "font":{"family":"思源黑体 CN Medium"},
+                     "stylesheet":"font-size: 16px;color: #627F95;letter-spacing: 0;text-align: center;line-height: 12px;"}
+                </label>
+                <label id = "error_lable">
+                    {"name":"error_lable", "rect":[[100, 405, 400, 70]],
+                     "font":{"family":"思源黑体 CN Light"},
+                     "stylesheet":"font-size: 12px;color: #627F95;letter-spacing: 0;text-align: center;line-height: 18px;"}
+                </label>
+            </dialog>
+        </ui>
+        <app>
+            <ucode>
+                <zip path = './ucode/ucode_zip.py'></zip>
+            </ucode>
+        </app>
+    </upgrade>
+</aibox>
